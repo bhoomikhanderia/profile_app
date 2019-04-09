@@ -1,0 +1,19 @@
+{
+    "devenv": {
+        "awscloudformation": {
+            "AuthRoleName": "profile-app-20190407173221-authRole",
+            "UnauthRoleArn": "arn:aws:iam::076111166964:role/profile-app-20190407173221-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::076111166964:role/profile-app-20190407173221-authRole",
+            "Region": "ap-southeast-2",
+            "DeploymentBucketName": "profile-app-20190407173221-deployment",
+            "UnauthRoleName": "profile-app-20190407173221-unauthRole",
+            "StackName": "profile-app-20190407173221",
+            "StackId": "arn:aws:cloudformation:ap-southeast-2:076111166964:stack/profile-app-20190407173221/481acd70-5907-11e9-936f-02181cf5d610"
+        },
+        "categories": {
+            "auth": {
+                "cognito5e97f218": {}
+            }
+        }
+    }
+}
